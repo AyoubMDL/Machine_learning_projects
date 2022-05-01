@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2022-05-01T20:22:25. -->
+<!-- Written by QtCreator 4.11.0, 2022-05-01T20:27:23. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -138,11 +138,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/ayoub/Machine_learning_projects/chatbot/main.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/ayoub/Machine_learning_projects/chatbot/main.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/main.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/main.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{33104742-411c-4f48-b96a-7cf8427a8ef8}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/ayoub/Machine_learning_projects/chatbot/main.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/main.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -152,7 +152,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/ayoub/Machine_learning_projects/chatbot</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/ayoub/Machine_learning_projects/simple_chatbot_with_gui</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
@@ -214,11 +214,11 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Ui</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/ayoub/Machine_learning_projects/chatbot/Ui.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/ayoub/Machine_learning_projects/chatbot/Ui.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Ui2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/Ui.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/Ui.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/ayoub/Machine_learning_projects/chatbot/Ui.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/ayoub/Machine_learning_projects/simple_chatbot_with_gui/Ui.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Chat</class>
- <widget class="QMainWindow" name="Chat">
+ <class>ch</class>
+ <widget class="QMainWindow" name="ch">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Chat</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color:rgb(211, 215, 207);
@@ -19,7 +19,7 @@ font: 75 italic 11pt &quot;Ubuntu Condensed&quot;;
 font-weight:700;
 font-size:20px;</string>
   </property>
-  <widget class="QWidget" name="centralwidget">
+  <widget class="QWidget" name="Chat">
    <layout class="QGridLayout" name="gridLayout">
     <item row="0" column="0">
      <layout class="QVBoxLayout" name="verticalLayout" stretch="0,0,0,0">
